@@ -1,0 +1,169 @@
+﻿Table reserved 1 time: 2024-08-19 15:00:00 customer name: ghj number of people 4
+Email sent to restoranascodeacademy@gmail.com for reservation. Table 1 reservation time: 2024-08-19 15:00:00
+Meal ordered: 4 Margherita pizza 10  Table: 1 Waiter: Toma
+Meal ordered: 6 Lemon Juice 5  Table: 1 Waiter: Toma
+Meal removed from table: Id: 4 Name: Margherita pizza Price: 10 Description  Comments  Table: 1 Waiter: Toma
+Meal ordered: 11 Chicken meat 15  Table: 1 Waiter: Toma
+Meal ordered: 1 Strawberry Waffle desert 4  Table: 1 Waiter: Toma
+Table reserved 1 time: 2024-08-19 19:00:00 customer name: asd number of people 6
+Meal ordered: 1 Strawberry Waffle desert 4  Table: 1 Waiter: Toma
+Meal ordered: 5 Beer alco dark 8  Table: 1 Waiter: Toma
+Meal ordered: 5 Mediterranean pizza 11  Table: 1 Waiter: Toma
+Meal ordered: 4 Beer alco 5  Table: 1 Waiter: Toma
+Meal removed from table: Id: 4 Name: Beer alco Price: 5 Description  Comments  Table: 1 Waiter: Toma
+Table reserved 1 time: 2024-09-24 10:00:00 customer name: asd number of people 6
+Meal removed from table: Id: 5 Name: Mediterranean pizza Price: 11 Description  Comments  Table: 1 Waiter: Toma
+Table reserved 1 time: 2024-08-19 19:00:00 customer name: asd number of people 10
+Table reserved 1 time: 2024-08-19 19:00:00 customer name: asd number of people 20
+Meal ordered: 1 Strawberry Waffle desert 4  Table: 2 Waiter: Toma
+Meal ordered: 1 Strawberry Waffle desert 4  Table: 2 Waiter: Toma
+Meal ordered: 1 Strawberry Waffle desert 4  Table: 2 Waiter: Toma
+Table reserved 1 time: 2024-08-19 19:00:00 customer name: 20 number of people 20
+Meal ordered: 1 Strawberry Waffle desert 4  Table: 1 Waiter: Toma
+----------------------------------------------------------------------------------
+Restaurant project Restorano g. 5, Vilnius
+Order paid
+Table number: 1 waiter: Toma
+
+Strawberry Waffle desert - 4 eur.
+
+Total price: 4 eur.
+----------------------------------------------------------------------------------
+
+Table reserved 1 time: 2024-08-19 20:00:00 customer name: bhj number of people 7
+Email sent to restoranascodeacademy@gmail.com for reservation. Table 1 reservation time: 2024-08-19 20:00:00
+Email sent to restoranascodeacademy@gmail.com for reservation cancel. Table 1 reservation time: 2024-08-19 20:00:00
+Reservation canceled for table Reservation date: 2024-08-19 20:00:00 customer name: bhj number of people: 7
+Meal ordered: 4 Margherita pizza 10  Table: 1 Waiter: Toma
+Meal ordered: 4 Beer alco 5  Table: 1 Waiter: Toma
+Meal ordered: 10 Fish meat 22  Table: 1 Waiter: Toma
+----------------------------------------------------------------------------------
+Restaurant project Restorano g. 5, Vilnius
+Order paid
+Table number: 1 waiter: Toma
+
+Margherita pizza - 10 eur.
+Beer alco - 5 eur.
+Fish meat - 22 eur.
+
+Total price: 37 eur.
+----------------------------------------------------------------------------------
+
+Table reserved 1 time: 2024-08-19 18:00:00 customer name: fdgg number of people 7
+Email sent to restoranascodeacademy@gmail.com for reservation. Table 1 reservation time: 2024-08-19 18:00:00
+Table reserved 1 time: 2024-08-19 20:00:00 customer name: gf number of people 4
+Email sent to restoranascodeacademy@gmail.com for reservation. Table 1 reservation time: 2024-08-19 20:00:00
+Email sent to restoranascodeacademy@gmail.com for reservation cancel. Table 1 reservation time: 2024-08-19 20:00:00
+Reservation canceled for table Reservation date: 2024-08-19 20:00:00 customer name: gf number of people: 4
+Meal ordered: 11 Chicken meat 15  Table: 1 Waiter: Toma
+Meal ordered: 4 Beer alco 5  Table: 1 Waiter: Toma
+Meal removed from table: Id: 4 Name: Beer alco Price: 5 Description  Comments  Table: 1 Waiter: Toma
+Meal ordered: 4 Margherita pizza 10  Table: 1 Waiter: Toma
+Meal ordered: 1 Strawberry Waffle desert 4  Table: 1 Waiter: Toma
+Meal ordered: 4 Beer alco 5  Table: 1 Waiter: Toma
+Table reserved 1 time: 2024-08-19 18:00:00 customer name: safdsf number of people 4
+Email sent to restoranascodeacademy@gmail.com for reservation. Table 1 reservation time: 2024-08-19 18:00:00
+Table reserved 1 time: 2024-08-19 20:00:00 customer name: restoranascodeacademy@gmail.com number of people 5
+Email sent to restoranascodeacademy@gmail.com for reservation. Table 1 reservation time: 2024-08-19 20:00:00
+Email sent to restoranascodeacademy@gmail.com for reservation cancel. Table 1 reservation time: 2024-08-19 18:00:00
+Reservation canceled for table Reservation date: 2024-08-19 18:00:00 customer name: safdsf number of people: 4
+Meal ordered: 5 Mediterranean pizza 11  Table: 2 Waiter: Toma
+Meal ordered: 4 Beer alco 5  Table: 2 Waiter: Toma
+Table reserved 2 time: 2024-08-19 21:00:00 customer name: rthgbfh number of people 9
+Email sent to restoranascodeacademy@gmail.com for reservation. Table 2 reservation time: 2024-08-19 21:00:00
+Meal removed from table: Id: 4 Name: Beer alco Price: 5 Description  Comments  Table: 2 Waiter: Toma
+Meal ordered: 5 Beer alco dark 8  Table: 2 Waiter: Toma
+Meal removed from table: Id: 5 Name: Beer alco dark Price: 8 Description  Comments  Table: 2 Waiter: Toma
+Meal ordered: 7 Natural Orange Juice 8  Table: 2 Waiter: Toma
+----------------------------------------------------------------------------------
+Restaurant project Restorano g. 5, Vilnius
+Order paid
+Table number: 2 waiter: Toma
+
+Mediterranean pizza - 11 eur.
+Natural Orange Juice - 8 eur.
+
+Total price: 19 eur.
+----------------------------------------------------------------------------------
+
+Meal ordered: 2 Apple Pie 6  Table: 1 Waiter: Toma
+Meal ordered: 5 Beer alco dark 8  Table: 1 Waiter: Toma
+Table reserved 4 time: 2024-08-19 20:00:00 customer name: toma number of people 7
+Email sent to restoranascodeacademy@gmail.com for reservation. Table 4 reservation time: 2024-08-19 20:00:00
+Meal ordered: 4 Margherita pizza 10  Table: 1 Waiter: Toma
+Meal ordered: 8 Espresso Coffee 3  Table: 1 Waiter: Toma
+Meal ordered: 3 Brownies 5  Table: 2 Waiter: Toma
+Table reserved 4 time: 2024-08-19 20:00:00 customer name: fg number of people 4
+Email sent to restoranascodeacademy@gmail.com for reservation. Table 4 reservation time: 2024-08-19 20:00:00
+Meal ordered: 2 Apple Pie 6  Table: 2 Waiter: Toma
+Meal removed from table: Id: 2 Name: Apple Pie Price: 6 Description  Comments  Table: 2 Waiter: Toma
+Table reserved 1 time: 2024-08-19 20:00:00 customer name: dgt number of people 6
+Email sent to restoranascodeacademy@gmail.com for reservation. Table 1 reservation time: 2024-08-19 20:00:00
+Meal ordered: 4 Margherita pizza 10  Table: 5 Waiter: Simona
+Meal ordered: 1 Table Water 1  Table: 5 Waiter: Simona
+Meal removed from table: Id: 1 Name: Table Water Price: 1 Description  Comments  Table: 5 Waiter: Simona
+Meal ordered: 4 Margherita pizza 10  Table: 5 Waiter: Simona
+Meal ordered: 1 Strawberry Waffle desert 4  Table: 6 Waiter: Simona
+Table reserved 1 time: 2024-08-19 20:00:00 customer name: fg number of people 6
+Email sent to restoranascodeacademy@gmail.com for reservation. Table 1 reservation time: 2024-08-19 20:00:00
+Meal ordered: 4 Margherita pizza 10  Table: 1 Waiter: Toma
+Meal ordered: 15 Milkshake 6  Table: 1 Waiter: Toma
+Meal ordered: 5 Mediterranean pizza 11  Table: 1 Waiter: Toma
+Table reserved 1 time: 2024-08-19 21:00:00 customer name: dgh number of people 7
+Email sent to restoranascodeacademy@gmail.com for reservation. Table 1 reservation time: 2024-08-19 21:00:00
+Table reserved 1 time: 2024-08-19 23:00:00 customer name: ghj number of people 4
+Email sent to restoranascodeacademy@gmail.com for reservation. Table 1 reservation time: 2024-08-19 23:00:00
+Meal ordered: 5 Mediterranean pizza 11  Table: 2 Waiter: Toma
+Meal ordered: 9 Latte Coffee 4  Table: 2 Waiter: Toma
+Meal ordered: 2 Apple Pie 6  Table: 6 Waiter: Simona
+Meal ordered: 4 Beer alco 5  Table: 6 Waiter: Simona
+Email sent to restoranascodeacademy@gmail.com for reservation cancel. Table 1 reservation time: 2024-08-19 21:00:00
+Reservation canceled for table Reservation date: 2024-08-19 21:00:00 customer name: dgh number of people: 7
+Meal ordered: 6 Veggie Delight 12  Table: 1 Waiter: Toma
+Table reserved 1 time: 2024-08-19 21:00:00 customer name: saff number of people 4
+Email sent to restoranascodeacademy@gmail.com for reservation. Table 1 reservation time: 2024-08-19 21:00:00
+Table reserved 1 time: 2024-08-19 23:00:00 customer name: gfhh number of people 7
+Email sent to restoranascodeacademy@gmail.com for reservation. Table 1 reservation time: 2024-08-19 23:00:00
+Email sent to restoranascodeacademy@gmail.com for reservation cancel. Table 1 reservation time: 2024-08-19 21:00:00
+Reservation canceled for table Reservation date: 2024-08-19 21:00:00 customer name: saff number of people: 4
+Meal ordered: 4 Margherita pizza 10  Table: 2 Waiter: Toma
+Meal ordered: 7 Natural Orange Juice 8  Table: 2 Waiter: Toma
+Meal removed from table: Id: 7 Name: Natural Orange Juice Price: 8 Description  Comments  Table: 2 Waiter: Toma
+Meal ordered: 4 Margherita pizza 10  Table: 2 Waiter: Toma
+----------------------------------------------------------------------------------
+Restaurant project Restorano g. 5, Vilnius
+Order paid
+Table number: 2 waiter: Toma
+
+Margherita pizza - 10 eur.
+Margherita pizza - 10 eur.
+
+Total price: 20 eur.
+----------------------------------------------------------------------------------
+
+Meal ordered: 5 Mediterranean pizza 11  Table: 1 Waiter: Toma
+Meal ordered: 5 Beer alco dark 8  Table: 1 Waiter: Toma
+Meal ordered: 5 Mediterranean pizza 11  Table: 2 Waiter: Toma
+Meal ordered: 2 Apple Pie 6  Table: 2 Waiter: Toma
+----------------------------------------------------------------------------------
+Restaurant project Restorano g. 5, Vilnius
+Order paid
+Table number: 2 waiter: Toma
+
+Mediterranean pizza - 11 eur.
+Apple Pie - 6 eur.
+
+Total price: 17 eur.
+----------------------------------------------------------------------------------
+
+Table reserved 1 time: 2024-08-20 13:00:00 customer name: kjkj number of people 6
+Email sent to restoranascodeacademy@gmail.com for reservation. Table 1 reservation time: 2024-08-20 13:00:00
+Table reserved 1 time: 2024-08-20 15:00:00 customer name: gdg number of people 7
+Email sent to restoranascodeacademy@gmail.com for reservation. Table 1 reservation time: 2024-08-20 15:00:00
+Email sent to restoranascodeacademy@gmail.com for reservation cancel. Table 1 reservation time: 2024-08-20 13:00:00
+Reservation canceled for table Reservation date: 2024-08-20 13:00:00 customer name: kjkj number of people: 6
+Meal ordered: 1 Strawberry Waffle desert 4  Table: 1 Waiter: Toma
+Meal ordered: 10 Americano Coffee 5  Table: 1 Waiter: Toma
+Meal removed from table: Id: 10 Name: Americano Coffee Price: 5 Description  Comments  Table: 1 Waiter: Toma
+Meal ordered: 3 Brownies 5  Table: 2 Waiter: Toma
+Meal ordered: 5 Beer alco dark 8  Table: 2 Waiter: Toma

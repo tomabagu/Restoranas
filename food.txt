@@ -1,0 +1,11 @@
+﻿1,Strawberry Waffle desert,4,true
+2,Apple Pie,6,false
+3,Brownies,5,false
+4,Margherita pizza,10,false
+5,Mediterranean pizza,11,false
+6,Veggie Delight,12,true
+7,Caprese salad,14,true
+8,Bufalo salad,13,false
+9,Steak meat,20,false
+10,Fish meat,22,true
+11,Chicken meat,15,false

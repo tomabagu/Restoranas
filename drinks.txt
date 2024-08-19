@@ -1,0 +1,15 @@
+﻿1,Table Water,1,0.5,false
+2,Table Water,1.5,1,false
+3,Tequila Blanco alco,5,0.2,true
+4,Beer alco,5,0.5,true
+5,Beer alco dark,8,0.5,true
+6,Lemon Juice,5,0.3,false
+7,Natural Orange Juice,8,0.2,false
+8,Espresso Coffee,3,0.1,false
+9,Latte Coffee,4,0.3,false
+10,Americano Coffee,5,0.2,false
+11,Mango Tea,5,0.2,false
+12,Green Tea,3,0.2,false
+13,Mint Tea,3,0.3,false
+14,Hot Chocolate,5,0.2,false
+15,Milkshake,6,0.3,false
